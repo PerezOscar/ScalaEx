@@ -1,0 +1,9 @@
+The first line.
+The second line.
+1
+2
+3
+4
+5
+More stuff
+Goes after original contents.
